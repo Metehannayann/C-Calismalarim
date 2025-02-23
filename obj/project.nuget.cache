@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MKNkO5TfG4I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\home\\Desktop\\github projelerim\\calismadurumu1\\calismadurumu1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\home\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.10\\microsoft.dotnet.ilcompiler.8.0.10.nupkg.sha512",
+    "C:\\Users\\home\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.10\\microsoft.net.illink.tasks.8.0.10.nupkg.sha512",
+    "C:\\Users\\home\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.10\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

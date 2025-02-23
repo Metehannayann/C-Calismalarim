@@ -1,0 +1,14 @@
+C:\Users\home\Desktop\github projelerim\calismadurumu1\bin\Debug\net8.0\calismadurumu1.exe
+C:\Users\home\Desktop\github projelerim\calismadurumu1\bin\Debug\net8.0\calismadurumu1.deps.json
+C:\Users\home\Desktop\github projelerim\calismadurumu1\bin\Debug\net8.0\calismadurumu1.runtimeconfig.json
+C:\Users\home\Desktop\github projelerim\calismadurumu1\bin\Debug\net8.0\calismadurumu1.dll
+C:\Users\home\Desktop\github projelerim\calismadurumu1\bin\Debug\net8.0\calismadurumu1.pdb
+C:\Users\home\Desktop\github projelerim\calismadurumu1\obj\Debug\net8.0\calismadurumu1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Desktop\github projelerim\calismadurumu1\obj\Debug\net8.0\calismadurumu1.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\github projelerim\calismadurumu1\obj\Debug\net8.0\calismadurumu1.AssemblyInfo.cs
+C:\Users\home\Desktop\github projelerim\calismadurumu1\obj\Debug\net8.0\calismadurumu1.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\github projelerim\calismadurumu1\obj\Debug\net8.0\calismadurumu1.dll
+C:\Users\home\Desktop\github projelerim\calismadurumu1\obj\Debug\net8.0\refint\calismadurumu1.dll
+C:\Users\home\Desktop\github projelerim\calismadurumu1\obj\Debug\net8.0\calismadurumu1.pdb
+C:\Users\home\Desktop\github projelerim\calismadurumu1\obj\Debug\net8.0\calismadurumu1.genruntimeconfig.cache
+C:\Users\home\Desktop\github projelerim\calismadurumu1\obj\Debug\net8.0\ref\calismadurumu1.dll

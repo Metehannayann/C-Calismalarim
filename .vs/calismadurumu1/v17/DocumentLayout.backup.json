@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\home\\Desktop\\github projelerim\\calismadurumu1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CEF1464-F1FC-4623-BD2F-0303E9F62C47}|calismadurumu1.csproj|c:\\users\\home\\desktop\\github projelerim\\calismadurumu1\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CEF1464-F1FC-4623-BD2F-0303E9F62C47}|calismadurumu1.csproj|solutionrelative:calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CEF1464-F1FC-4623-BD2F-0303E9F62C47}|calismadurumu1.csproj|c:\\users\\home\\desktop\\github projelerim\\calismadurumu1\\y\u00F6netici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CEF1464-F1FC-4623-BD2F-0303E9F62C47}|calismadurumu1.csproj|solutionrelative:y\u00F6netici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CEF1464-F1FC-4623-BD2F-0303E9F62C47}|calismadurumu1.csproj|c:\\users\\home\\desktop\\github projelerim\\calismadurumu1\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CEF1464-F1FC-4623-BD2F-0303E9F62C47}|calismadurumu1.csproj|solutionrelative:personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CEF1464-F1FC-4623-BD2F-0303E9F62C47}|calismadurumu1.csproj|c:\\users\\home\\desktop\\github projelerim\\calismadurumu1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CEF1464-F1FC-4623-BD2F-0303E9F62C47}|calismadurumu1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "calisan.cs",
+              "DocumentMoniker": "C:\\Users\\home\\Desktop\\github projelerim\\calismadurumu1\\calisan.cs",
+              "RelativeDocumentMoniker": "calisan.cs",
+              "ToolTip": "C:\\Users\\home\\Desktop\\github projelerim\\calismadurumu1\\calisan.cs",
+              "RelativeToolTip": "calisan.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T17:48:58.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "y\u00F6netici.cs",
+              "DocumentMoniker": "C:\\Users\\home\\Desktop\\github projelerim\\calismadurumu1\\y\u00F6netici.cs",
+              "RelativeDocumentMoniker": "y\u00F6netici.cs",
+              "ToolTip": "C:\\Users\\home\\Desktop\\github projelerim\\calismadurumu1\\y\u00F6netici.cs",
+              "RelativeToolTip": "y\u00F6netici.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA0wC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T17:49:17.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "personel.cs",
+              "DocumentMoniker": "C:\\Users\\home\\Desktop\\github projelerim\\calismadurumu1\\personel.cs",
+              "RelativeDocumentMoniker": "personel.cs",
+              "ToolTip": "C:\\Users\\home\\Desktop\\github projelerim\\calismadurumu1\\personel.cs",
+              "RelativeToolTip": "personel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T17:49:09.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\home\\Desktop\\github projelerim\\calismadurumu1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\home\\Desktop\\github projelerim\\calismadurumu1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T17:48:11.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
